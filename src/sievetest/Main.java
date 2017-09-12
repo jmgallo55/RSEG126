@@ -35,7 +35,7 @@ public static void main(String[] args) {
 
 	 //code below from https://stackoverflow.com/questions/5287538/how-can-i-get-the-user-input-in-java -->
 	//Scanner reader = new Scanner(System.in);  // Reading from System.in
-	int n = 55; // Scans the next token of the input as an int.
+	int n = 65; // Scans the next token of the input as an int.
 	System.out.println("Testing the Sieve of a Eratosthenes with the number " + n + ": ");
 	    sievetest(n);
 	}
