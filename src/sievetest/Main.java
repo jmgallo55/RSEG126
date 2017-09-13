@@ -31,7 +31,7 @@ public static ArrayList<Integer> sievetest(int n) {
     return result;
 	}
 
-//public static void main(String[] args) {
+public static void main(String[] args) {
 
 	 //code below from https://stackoverflow.com/questions/5287538/how-can-i-get-the-user-input-in-java -->
 	//Scanner reader = new Scanner(System.in);  // Reading from System.in
